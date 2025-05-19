@@ -2,7 +2,7 @@
 
 Welcome to the Wonder Aqua Garden E-Commerce website! This project is built using the MERN stack (MongoDB, Express.js, React.js, Node.js), providing a platform for users to purchase various aquarium and pet-related products. Users can browse products, add them to their cart, review products, update their profile, and track order statuses. Additionally, an admin dashboard is available for managing products, orders, users, and inventory.
 
-#### Web Link: https://frontend-omega-eight-94.vercel.app/
+#### Web Link: https://aqua-world-j4a5ugi15-im-yabis-projects.vercel.app/
 
 
 | Admin                                | User                               |
