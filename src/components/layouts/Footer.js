@@ -41,13 +41,13 @@ export default function Footer() {
             <div className="col-md-4 mb-4 text-center">
               <h6 className="text-uppercase fw-bold mb-4" style={{ color: '#2F4F4F' }}>Quick Links</h6>
               <p>
-                <a href='http://localhost:3002/login' className='text-reset' style={{ textDecoration: 'none' }}>Login</a>
+                <a href='https://aqua-world-lake.vercel.app/login' className='text-reset' style={{ textDecoration: 'none' }}>Login</a>
               </p>
               <p>
-                <a href='http://localhost:3002/cart' className='text-reset' style={{ textDecoration: 'none' }}>Cart</a>
+                <a href='https://aqua-world-lake.vercel.app/cart' className='text-reset' style={{ textDecoration: 'none' }}>Cart</a>
               </p>
               <p>
-                <a href='http://localhost:3002/orders' className='text-reset' style={{ textDecoration: 'none' }}>Orders</a>
+                <a href='https://aqua-world-lake.vercel.app/order' className='text-reset' style={{ textDecoration: 'none' }}>Orders</a>
               </p>
               <p>
                 <a href='https://stcourier.com/track/shipment' className='text-reset' style={{ textDecoration: 'none' }}>Track Your Order</a>
@@ -72,7 +72,7 @@ export default function Footer() {
 
       <div className='text-center p-4' style={{ backgroundColor: '#e92121', color:'white'}}>
         © 2025 Copyright : &nbsp; 
-        <a className='text-reset fw-bold' href='http://localhost:3000/' style={{ textDecoration: 'none' }}>
+        <a className='text-reset fw-bold' href='https://aqua-world-lake.vercel.app/login' style={{ textDecoration: 'none' }}>
          Aqua World 
         </a>
       </div>
